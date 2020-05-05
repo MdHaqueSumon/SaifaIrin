@@ -1,0 +1,178 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "User can search the thard number property.",
+        "description": "",
+        "id": "findout-thard-property.;user-can-search-the-thard-number-property.",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2426022818,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User open browser",
+            "match": {
+              "location": "Zooplastep.user_open_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3174222158,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "enter application url - https://www.zoopla.com.uk/",
+            "match": {
+              "location": "Zooplastep.enter_application_url_https_www_zoopla_com_uk()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 333688999,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on login button",
+            "match": {
+              "location": "Zooplastep.user_click_on_login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1074776037,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter valid credential",
+            "match": {
+              "location": "Zooplastep.user_enter_valid_credential()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1250027012,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "submit login button.",
+            "match": {
+              "location": "Zooplastep.submit_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10798027,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Varifi application title.",
+            "match": {
+              "location": "Zooplastep.varifi_application_title()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 479622271,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User enter loction New York , Lincolnhire.",
+            "match": {
+              "location": "Zooplastep.user_enter_loction_New_York_Lincolnhire()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 871589328,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user click suerch button",
+            "match": {
+              "location": "Zooplastep.user_click_suerch_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4349132105,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User check all the price values.",
+            "match": {
+              "location": "Zooplastep.user_check_all_the_price_values()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 741480483,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User need to select thard property in the list.",
+            "match": {
+              "location": "Zooplastep.user_need_to_select_thard_property_in_the_list()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 681608480,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Thard property  agent name \u0026 phone number varify.",
+            "match": {
+              "location": "Zooplastep.thard_property_agent_name_phone_number_varify()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2889913887,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User click logout button \u0026 go to zoopla home page.",
+            "match": {
+              "location": "Zooplastep.user_click_logout_button_go_to_zoopla_home_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 103474716,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User close the browser",
+            "match": {
+              "location": "Zooplastep.user_close_the_browser()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Findout thard property.",
+    "description": "",
+    "id": "findout-thard-property.",
+    "keyword": "Feature",
+    "uri": "src/main/resources/FindProperty.feature"
+  }
+]
